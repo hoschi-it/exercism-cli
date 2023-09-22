@@ -13,7 +13,7 @@ Instructions can be found at [exercism/cli/releases](https://github.com/exercism
 
 ## Compiling
 
-If your are already familiar with go and the command line,
+If your are already familiar with [go](https://go.dev) and the command line,
 you could also compile and install the current version of the CLI yourself
 by running
 ```bash
